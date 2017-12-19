@@ -31,4 +31,5 @@
     <plugin name="cordova-android-play-services-gradle-release" spec="^1.1.4">
         <variable name="PLAY_SERVICES_VERSION" value="11.+" />
     </plugin>
+    <engine name="ios" spec="~4.5.4" />
 </widget>
