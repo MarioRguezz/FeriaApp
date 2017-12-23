@@ -250,7 +250,8 @@ background-color: #00aef3;
 
 
 .greenicon{
-  background-color: #005c2c !important;
+  /*background-color: #005b2c !important;*/
+  background-color: rgb(0, 91, 44) !important;
 }
 
 .yellowicon{
@@ -258,12 +259,46 @@ background-color: #00aef3;
 }
 
 .pinkicon{
-  background-color: #f61a92 !important;
+  /*background-color: #f61a92 !important;*/
+    background-color: rgb(207, 21, 145) !important;
 }
 
 .purpleicon{
   background-color: #670068 !important;
 }
+
+.modal{
+  top: 40% !important;
+}
+
+#myCarousel .left{
+margin-left: -7% !important;
+}
+#myCarousel .right{
+margin-right: -7% !important;
+}
+
+#myCarousel1 .left{
+margin-left: -7% !important;
+}
+#myCarousel1 .right{
+margin-right: -7% !important;
+}
+
+#myCarousel2 .left{
+margin-left: -7% !important;
+}
+#myCarousel2 .right{
+margin-right: -7% !important;
+}
+
+#myCarousel3 .left{
+margin-left: -7% !important;
+}
+#myCarousel3 .right{
+margin-right: -7% !important;
+}
+
 
 .graficomenu{
 float: left;
