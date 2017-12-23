@@ -353,7 +353,7 @@ color: #FFF;
 
 
 a {
-    color: #FFF;
+    color: #FFF !important;
     text-decoration: none;
 }
 
@@ -384,4 +384,54 @@ a:active{
    content: "<";
    color: red;
    font-size: 30px;
+}
+
+
+
+/* maps */
+
+.ampliarmapa{
+  background-color: #ba005f !important;
+  border-radius: 20px !important;
+  z-index: 2000 !important;
+  text-decoration: none;
+}
+
+.headergreen{
+  background-color: #659a21;
+  color: #FFF;
+}
+
+.bodygray{
+  background-color: #f4f4f4;
+  color: #83858e;
+}
+
+.upper{
+  margin-top: -5% !important;
+}
+
+/* gastronomia*/
+
+.bordergastronomia{
+  border-bottom: 0px solid #e6ad2a;
+  border-top: 20px solid #e6ad2a;
+  border-left: 20px solid #e6ad2a;
+  border-right: 20px solid #e6ad2a;
+}
+
+
+.titlegastronomia{
+  color: #e6ad2a;
+  font-weight: bold;
+  font-size: 2em !important;
+}
+
+.titlegastronomiathin{
+  color: #e6ad2a;
+  font-size: 1.5em !important;
+  text-align: center;
+}
+.grayfont{
+    color: #83858e;
 }
